@@ -2,7 +2,8 @@
 
 A real-time location sharing and tracking application that allows you to share your location with friends and track their locations on an interactive map.
 
-# Check Live Project Deployed on vercel - https://real-time-device-tracker-steel.vercel.app/
+# Check Live Project Deployed on vercel - 
+ https://real-time-device-tracker-steel.vercel.app
 
 ## 🌟 Features
 
